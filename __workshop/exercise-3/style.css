@@ -1,1 +1,20 @@
 /* ...crickets... */
+.title{
+    text-align: center;
+    font-family: 'Times New Roman';
+
+}
+
+.subtitle{
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+.content{
+    font-family: "Comic Sans MS";
+
+}
+
+.emph{
+    font-style: italic;
+}

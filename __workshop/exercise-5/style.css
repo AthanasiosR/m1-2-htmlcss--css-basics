@@ -18,52 +18,52 @@ li {
 
 /* Corrupted CSS below */
 /* ------------------- */
-b*** {
-  bac******d: #eaeaee;
-  ****-**mily: "Yanone Kaffeesatz", sans-serif;
-  ***t-si*e: 24px;
-  max-*****: 600px;
-  margin: 0 * * *;
-  padding: 32px * *;
+body {
+  background: #eaeaee;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size: 24px;
+  max-width: 100%;
+  margin: 0px 0px 0px 0px;
+  padding: 32px 0px 32px 32px;
 }
 
 h1,
 h2 {
-  $#%$#^#$%#$%: "Bangers", cursive;
+  font-family:  "Bangers", cursive;
 }
 
-#h2 {
+.h2 {
   text-decoration: underline;
 }
 
 .centered {
-  text*****n: centre;
+  text-align: center;
 }
 
 .title {
-  ***t-size: 48px;
+  font-size: 48px;
 }
 
 .content {
-  ......................;
-  ...........: 5px;
-  ............: 48px;
-  ........: 20px;
+  background-color: white;
+
 }
 
 .content ul {
-  margin-top: .....;
+  margin-top: ;
   padding-left: .....;
 }
 
-.element {
-  list-*****-type: square;
+.element.first {
+  list-style-type: square;
+}
+.element.second {
+  list-style-type: square;
 }
 
 .first {
-  color: #ffffff;
 }
 
 .second {
-  font-weight: cold;
+  font-weight: bold;
 }

@@ -23,19 +23,56 @@ body {
 
 h1,
 h2 {
+  text-align: center;
+  font-family:  "Bangers", cursive;
 }
 
 h1 {
+  font-size: 60px;
 }
 
 h2 {
 }
 
+
 .row {
+  display: flex;
+  justify-content: space-evenly;
 }
 
+.cat{
+  background-color: grey;
+  float: left;
+  text-align: center;
+  border-width: 3px;
+  border-style: dashed;
+  padding: 10px;
+}
+
+.dog{
+  background-color: grey;
+  float: left;
+  text-align: center;
+  border-width: 3px;
+  border-style: dashed;
+  padding: 10px;
+}
+
+.alpaca{
+  background-color: grey;
+  float: right;
+  text-align: center;
+  border-width: 3px;
+  border-style: dashed;
+  padding: 10px;
+}
+
+
 .col {
+  list-style-type: none;
 }
 
 .image {
+  height: 200px;
+
 }
