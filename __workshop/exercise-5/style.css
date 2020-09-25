@@ -46,12 +46,17 @@ h2 {
 
 .content {
   background-color: white;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 15px;
+  margin-left: 200px;
+  width: 50%;
 
 }
 
 .content ul {
-  margin-top: ;
-  padding-left: .....;
+  margin-top: 15px;
+  padding-left: 15px;
 }
 
 .element.first {
